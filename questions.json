@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "qtext": "What challenges are you facing?",
+      "qcategory": "Understanding"
+    },
+    {
+      "qtext": "What matters to you right now?",
+      "qcategory": "Understanding"
+    },
+    {
+      "qtext": "What’s on your mind today?",
+      "qcategory": "Understanding"
+    },
+    {
+      "qtext": "What opportunities are you seeing?",
+      "qcategory": "Understanding"
+    },
+    {
+      "qtext": "What else?",
+      "qcategory": "Understanding"
+    },
+    {
+      "qtext": "What is the best possible outcome?",
+      "qcategory": "Direction"
+    },
+    {
+      "qtext": "What are you trying to achieve?",
+      "qcategory": "Direction"
+    },
+    {
+      "qtext": "What do you want to happen next?",
+      "qcategory": "Direction"
+    },
+    {
+      "qtext": "What does success look like?",
+      "qcategory": "Direction"
+    },
+    {
+      "qtext": "How will you know if you’ve succeeded?",
+      "qcategory": "Direction"
+    },
+    {
+      "qtext": "What have you tried?",
+      "qcategory": "Options"
+    },
+    {
+      "qtext": "What options do you have?",
+      "qcategory": "Options"
+    },
+    {
+      "qtext": "What else?",
+      "qcategory": "Options"
+    },
+    {
+      "qtext": "How possible is each option?",
+      "qcategory": "Options"
+    },
+    {
+      "qtext": "What would you have to believe for this option to be right?",
+      "qcategory": "Options"
+    },
+    {
+      "qtext": "What data/information do you need to make a decision?",
+      "qcategory": "Actions"
+    },
+    {
+      "qtext": "What action can you take now?",
+      "qcategory": "Actions"
+    },
+    {
+      "qtext": "What are you taking away from this conversation, as a next step or new way of thinking?",
+      "qcategory": "Actions"
+    },
+    {
+      "qtext": "What support do you need? Where will you get it?",
+      "qcategory": "Actions"
+    },
+    {
+      "qtext": "How can I help?",
+      "qcategory": "Actions"
+    }
+  ]
+}
