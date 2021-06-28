@@ -79,6 +79,24 @@
     {
       "qtext": "How can I help?",
       "qcategory": "Actions"
-    }
+    },
+    {"qtext": "From your perspective, how do you feel our collaboration is going?", "qcategory": "Professional Feedback"},
+{"qtext": "Could you give me an honest assessment of our work together?", "qcategory": "Professional Feedback"},
+{"qtext": "Is there anything that you'd change about our relationship?", "qcategory": "Professional Feedback"},
+{"qtext": "What should I be doing more of or Less of?", "qcategory": "Professional Feedback"},
+{"qtext": "Are there individuals in the organization with whom I need to spend more time?", "qcategory": "Professional Feedback"},
+{"qtext": "Is there sufficient communication so far?", "qcategory": "Professional Feedback"},
+{"qtext": "Am I doing an effective job at linking our work to your key priorities?", "qcategory": "Professional Feedback"},
+{"qtext": "What have I done that has been most helpful to you?", "qcategory": "Professional Feedback"},
+{"qtext": "In what ways am I helping you to achieve your goals?", "qcategory": "Professional Feedback"},
+{"qtext": "Do you feel I am working on the most central and critical issues for you?", "qcategory": "Professional Feedback"},
+{"qtext": "How can I make your life easier?", "qcategory": "Professional Feedback"},
+{"qtext": "How could I make doing business with me easier?", "qcategory": "Professional Feedback"},
+{"qtext": "In what ways could I be a better listener to you and your organization?", "qcategory": "Professional Feedback"},
+{"qtext": "Are there any aspects of your business or parts of your organization that you think I should understand better?", "qcategory": "Professional Feedback"},
+{"qtext": "Overall, how can I do a better job of helping you to meet your own objectives?", "qcategory": "Professional Feedback"},
+{"qtext": "Are there any other issues that we ought to be aware of or thinking about for you?", "qcategory": "Professional Feedback"},
+{"qtext": "Do you have any other concerns that you'd like to put on the table?", "qcategory": "Professional Feedback"},
+{"qtext": "On a scale of 1 to 10, how enthusiastically would you recommend me and my firm to a friend or colleague?", "qcategory": "Professional Feedback"}
   ]
 }
