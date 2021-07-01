@@ -18,7 +18,7 @@
     },
     {
       "qtext": "What else?",
-      "qcategory": "Understanding"
+      "qcategory": "Understanding,Options"
     },
     {
       "qtext": "What is the best possible outcome?",
@@ -46,10 +46,6 @@
     },
     {
       "qtext": "What options do you have?",
-      "qcategory": "Options"
-    },
-    {
-      "qtext": "What else?",
       "qcategory": "Options"
     },
     {
