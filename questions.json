@@ -221,6 +221,94 @@
       "qcategory": "Exploring Possibilities"
     },
     { "qtext": "What if you could?", "qcategory": "Exploring Possibilities" },
-    { "qtext": "What will move you?", "qcategory": "Exploring Possibilities" }
+    { "qtext": "What will move you?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What do you wish?", "qcategory": "Going Below the Surface" },
+    { "qtext": "What do you feel?", "qcategory": "Going Below the Surface" },
+    { "qtext": "What comes up for?", "qcategory": "Going Below the Surface" },
+    {
+      "qtext": "What does it feel like?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What are you holding onto?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What about it excites you?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What is good about it?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What is this costing you?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What are you tolerating?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What voice is speaking?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What is stopping you?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What do you really want?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "How do you perceive me?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "How do I come across?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What is the question?",
+      "qcategory": "Going Below the Surface"
+    },
+    { "qtext": "What is the choice?", "qcategory": "Going Below the Surface" },
+    {
+      "qtext": "What are you discovering?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "Who are you becoming?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What are you resisting?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What are you learning from it?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "How do you feel about it?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What do you love about it?(to ask yourself)",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What might I not see?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What might I not understand?",
+      "qcategory": "Going Below the Surface"
+    },
+    {
+      "qtext": "What pain am I avoiding?",
+      "qcategory": "Going Below the Surface"
+    }
   ]
 }
