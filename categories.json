@@ -10,6 +10,9 @@
       "label": "Direction"
     },
     {
+      "label": "Examining Situation"
+    },
+    {
       "label": "Options"
     },
     {
@@ -17,6 +20,9 @@
     },
     {
       "label": "Professional Feedback"
+    },
+    {
+      "label": "Exploring Possibilities"
     }
   ]
 }

@@ -1,28 +1,58 @@
 {
-   "resources": [
-     {
-       "title": "Power Questions",
-       "description": "An arsenal of powerful questions that will transform every conversation.",
-       "url": "https://www.amazon.co.uk/Power-Questions-Relationships-Influence-Hardcover/dp/B010CLBNOI/ref=sr_1_2?dchild=1&keywords=Power+Questions%3A+Build+Relationships%2C+Win+New+Business%2C+and+Influence+Others&qid=1624977524&sr=8-2",
-       "type": "book"
-     },
-     {
-       "title": "Ask Powerful Questions: Create Conversations That Matter",
-       "description": "This book will give you the necessary tools for asking questions that will elicit fresh and new responses.",
-       "url": "https://www.amazon.co.uk/Ask-Powerful-Questions-Create-Conversations/dp/1545322996/ref=sr_1_8?dchild=1&keywords=powerful+question&qid=1624977407&sr=8-8",
-       "type": "book"
-     },
-     {
-       "title": "How to design powerful questions",
-       "description": "To make a better sense of the world, improve decision-making, strategize, and innovate, we need to convene small groups of people to engage in creative conversations triggered by powerful questions.",
-       "url": "https://conversational-leadership.net/powerful-questions/",
-       "type": "blog post"
-     },
-     {
-       "title": "Coaching Question: A Coach's Guide to Powerful Asking Skills.",
-       "description": "This book is a godsend for beginners or coaches in training, who often struggle to come up with the right thing to ask. Simply take a minute or two to review the technique or conversational model you will be using, close the book and start coaching. You'll coach with greater confidence, effectiveness, and master the art of asking faster.",
-       "url": "https://www.amazon.co.uk/Coaching-Questions-Coachs-Powerful-Asking/dp/0979416361",
-       "type": "book"
-     }
-   ]
+  "resources": [
+    {
+      "title": "Power Questions",
+      "description": "An arsenal of powerful questions that will transform every conversation.",
+      "url": "https://www.amazon.co.uk/Power-Questions-Relationships-Influence-Hardcover/dp/B010CLBNOI/ref=sr_1_2?dchild=1&keywords=Power+Questions%3A+Build+Relationships%2C+Win+New+Business%2C+and+Influence+Others&qid=1624977524&sr=8-2",
+      "type": "book"
+    },
+    {
+      "title": "Ask Powerful Questions: Create Conversations That Matter",
+      "description": "This book will give you the necessary tools for asking questions that will elicit fresh and new responses.",
+      "url": "https://www.amazon.co.uk/Ask-Powerful-Questions-Create-Conversations/dp/1545322996/ref=sr_1_8?dchild=1&keywords=powerful+question&qid=1624977407&sr=8-8",
+      "type": "book"
+    },
+    {
+      "title": "How to design powerful questions",
+      "description": "To make a better sense of the world, improve decision-making, strategize, and innovate, we need to convene small groups of people to engage in creative conversations triggered by powerful questions.",
+      "url": "https://conversational-leadership.net/powerful-questions/",
+      "type": "blog post"
+    },
+    {
+      "title": "Coaching Question: A Coach's Guide to Powerful Asking Skills.",
+      "description": "This book is a godsend for beginners or coaches in training, who often struggle to come up with the right thing to ask. Simply take a minute or two to review the technique or conversational model you will be using, close the book and start coaching. You'll coach with greater confidence, effectiveness, and master the art of asking faster.",
+      "url": "https://www.amazon.co.uk/Coaching-Questions-Coachs-Powerful-Asking/dp/0979416361",
+      "type": "book"
+    },
+    {
+      "title": "The Surprising Power of Questions",
+      "description": "Asking questions is a uniquely powerful tool for unlocking value in organizations: It spurs learning and the exchange of ideas, it fuels innovation and performance improvement, it builds rapport and trust among team members. And it can mitigate business risk by uncovering unforeseen pitfalls and hazards. But few executives think of questioning as a skill that can be honed—or consider how their own answers to questions could make conversations more productive. That’s a missed opportunity. The good news is that by asking questions, we naturally improve our emotional intelligence, which in turn makes us better questioners—a virtuous cycle. The authors draw on insights from behavioral science research to explore how the way we frame questions and choose to answer our counterparts can influence the outcome of conversations. They offer guidance for choosing the best type, tone, sequence, and framing of questions and for deciding what and how much information to share to reap the most benefit from our interactions, not just for ourselves but for our organizations.",
+      "url": "https://hbr.org/2018/05/the-surprising-power-of-questions",
+      "type": "HBR article"
+    },
+    {
+      "title": "Powerful Questions – Resources",
+      "description": "It is quite easy to learn the basics of crafting powerful questions. However, once you understand the importance of inquiry, it’s hard to turn back. As your questions become broader and deeper than before, so does your experience of life. There is no telling where a powerful question might lead you.",
+      "url": "https://abiggergame.today/powerfulquestions/",
+      "type": "blog post"
+    },
+    {
+      "title": "How To Ask Powerful Questions",
+      "description": "Learn about The Powerful Questions Matrix",
+      "url": "https://andrewsobel.com/how-to-ask-powerful-questions/",
+      "type": "blog post"
+    },
+    {
+      "title": "Powerful Questions - a brief selection of questions",
+      "description": "While many of us value having the right answers, consider what becomes possible if we shift focus to being curious and asking questions that expand our understanding. Powerful questions are open ended and empower the person responding to choose the direction they take. They create possibilities and encourage discovery, deeper understanding, and new insights. They are curious and non-judgmental as they seek to further learning and connection.",
+      "url": "https://www.lwv.org/sites/default/files/2018-07/Powerful%20Questions.LWV%20DEI%20Training%20Resource.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "What are powerful questions and what makes them so powerful?",
+      "description": "Powerful questions shift the power dynamics in a conversation so that the person who is asking becomes something like a facilitator for the other person to find their own solutions rather than the one who is in charge of the whole conversation. The impact on the person who is asked the powerful question is significant: They feel heard, recognized for being capable of finding their own solutions, in control of their situation and free to make a choice.",
+      "url": "https://annakmetova.com/what-are-powerful-questions-and-what-makes-them-so-powerful-2/",
+      "type": "blog post"
+    }
+  ]
 }

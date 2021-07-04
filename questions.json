@@ -16,10 +16,15 @@
       "qtext": "What opportunities are you seeing?",
       "qcategory": "Understanding"
     },
-    {
-      "qtext": "What else?",
-      "qcategory": "Understanding,Options"
-    },
+    { "qtext": "What else?", "qcategory": "Understanding,Options" },
+    { "qtext": "What do you want?", "qcategory": "Understanding" },
+    { "qtext": "What do you need?", "qcategory": "Understanding" },
+    { "qtext": "What makes it matter? ", "qcategory": "Understanding" },
+    { "qtext": "Where will that get you? ", "qcategory": "Understanding" },
+    { "qtext": "What does success look like? ", "qcategory": "Understanding" },
+    { "qtext": "What is at stake?", "qcategory": "Understanding" },
+    { "qtext": "What is at risk?", "qcategory": "Understanding" },
+    { "qtext": "What is really going on?", "qcategory": "Understanding" },
     {
       "qtext": "What is the best possible outcome?",
       "qcategory": "Direction"
@@ -76,23 +81,146 @@
       "qtext": "How can I help?",
       "qcategory": "Actions"
     },
-    {"qtext": "From your perspective, how do you feel our collaboration is going?", "qcategory": "Professional Feedback"},
-{"qtext": "Could you give me an honest assessment of our work together?", "qcategory": "Professional Feedback"},
-{"qtext": "Is there anything that you'd change about our relationship?", "qcategory": "Professional Feedback"},
-{"qtext": "What should I be doing more of or less of?", "qcategory": "Professional Feedback"},
-{"qtext": "Are there individuals in the organization with whom I need to spend more time?", "qcategory": "Professional Feedback"},
-{"qtext": "Is there sufficient communication so far?", "qcategory": "Professional Feedback"},
-{"qtext": "Am I doing an effective job at linking our work to your key priorities?", "qcategory": "Professional Feedback"},
-{"qtext": "What have I done that has been most helpful to you?", "qcategory": "Professional Feedback"},
-{"qtext": "In what ways am I helping you to achieve your goals?", "qcategory": "Professional Feedback"},
-{"qtext": "Do you feel I am working on the most central and critical issues for you?", "qcategory": "Professional Feedback"},
-{"qtext": "How can I make your life easier?", "qcategory": "Professional Feedback"},
-{"qtext": "How could I make doing business with me easier?", "qcategory": "Professional Feedback"},
-{"qtext": "In what ways could I be a better listener to you and your organization?", "qcategory": "Professional Feedback"},
-{"qtext": "Are there any aspects of your business or parts of your organization that you think I should understand better?", "qcategory": "Professional Feedback"},
-{"qtext": "Overall, how can I do a better job of helping you to meet your own objectives?", "qcategory": "Professional Feedback"},
-{"qtext": "Are there any other issues that we ought to be aware of or thinking about for you?", "qcategory": "Professional Feedback"},
-{"qtext": "Do you have any other concerns that you'd like to put on the table?", "qcategory": "Professional Feedback"},
-{"qtext": "On a scale of 1 to 10, how enthusiastically would you recommend me and my firm to a friend or colleague?", "qcategory": "Professional Feedback"}
+    {
+      "qtext": "From your perspective, how do you feel our collaboration is going?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Could you give me an honest assessment of our work together?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Is there anything that you'd change about our relationship?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "What should I be doing more of or less of?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Are there individuals in the organization with whom I need to spend more time?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Is there sufficient communication so far?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Am I doing an effective job at linking our work to your key priorities?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "What have I done that has been most helpful to you?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "In what ways am I helping you to achieve your goals?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Do you feel I am working on the most central and critical issues for you?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "How can I make your life easier?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "How could I make doing business with me easier?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "In what ways could I be a better listener to you and your organization?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Are there any aspects of your business or parts of your organization that you think I should understand better?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Overall, how can I do a better job of helping you to meet your own objectives?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Are there any other issues that we ought to be aware of or thinking about for you?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "Do you have any other concerns that you'd like to put on the table?",
+      "qcategory": "Professional Feedback"
+    },
+    {
+      "qtext": "On a scale of 1 to 10, how enthusiastically would you recommend me and my firm to a friend or colleague?",
+      "qcategory": "Professional Feedback"
+    },
+    { "qtext": "What is working?", "qcategory": "Examining Situation" },
+    { "qtext": "What is not working?", "qcategory": "Examining Situation" },
+    { "qtext": "What do you notice?", "qcategory": "Examining Situation" },
+    { "qtext": "What stands out?", "qcategory": "Examining Situation" },
+    { "qtext": "What strikes you?", "qcategory": "Examining Situation" },
+    { "qtext": "What is that?", "qcategory": "Examining Situation" },
+    { "qtext": "What about it?", "qcategory": "Examining Situation" },
+    { "qtext": "What drives you?", "qcategory": "Examining Situation" },
+    { "qtext": "What energizes you?", "qcategory": "Examining Situation" },
+    { "qtext": "Who energizes you?", "qcategory": "Examining Situation" },
+    { "qtext": "What drains you?", "qcategory": "Examining Situation" },
+    { "qtext": "Who drains you?", "qcategory": "Examining Situation" },
+    { "qtext": "What do you see?", "qcategory": "Examining Situation" },
+    { "qtext": "What do you think?", "qcategory": "Examining Situation" },
+    { "qtext": "What have you tried?", "qcategory": "Examining Situation" },
+    { "qtext": "What is it like?", "qcategory": "Examining Situation" },
+    { "qtext": "What is the reality?", "qcategory": "Examining Situation" },
+    { "qtext": "How does it look to you?", "qcategory": "Examining Situation" },
+    {
+      "qtext": "What do you think is best?",
+      "qcategory": "Examining Situation"
+    },
+    { "qtext": "What is possible?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What if yes?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What if no?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What is next?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What will change?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "How might you?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What might be?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What will be?", "qcategory": "Exploring Possibilities" },
+    {
+      "qtext": "What else is possible?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What will be different now?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What would that give you?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What resonates for you?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What is new about this?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What could you do less of?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What could you do more of?",
+      "qcategory": "Exploring Possibilities"
+    },
+    { "qtext": "What might you do?", "qcategory": "Exploring Possibilities" },
+    {
+      "qtext": "What would be different?",
+      "qcategory": "Exploring Possibilities"
+    },
+    {
+      "qtext": "What else might work?",
+      "qcategory": "Exploring Possibilities"
+    },
+    { "qtext": "What if you could?", "qcategory": "Exploring Possibilities" },
+    { "qtext": "What will move you?", "qcategory": "Exploring Possibilities" }
   ]
 }
